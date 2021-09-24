@@ -23,9 +23,13 @@ Em relação aos dead code também exclui as linhas de codigo
 Eram linhas de código desnecessárias que criei apenas para testar o funcionamento
 Da classe Setarfuncionariosiniciais 
 
+Rename method também foi utilizado desde o protótipo inicial
+Pois todas as classes e métodos foram nomeadas de forma a facilitar a visualização e entendimento .
+
 Também utilizei o extract method para refatorar a o classe swap
 Ele fazia a mesma coisa que a classe undoredo porém de um jeito diferente. 
 Logo era inutilizado. Então dead code
 
 Tudas as alterações podem ser observadas nos commits.
 Porem mostro todas no vídeo.
+
